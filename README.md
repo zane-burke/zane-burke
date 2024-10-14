@@ -1,5 +1,5 @@
 CS and linguistics student at Truman State University
 
-Varying levels of familiarity with Python, Go, and C++.
+Varying levels of familiarity with Python, Go, Rust, and C++.
 
-Learning Rust.
+Rust stan 🦀
